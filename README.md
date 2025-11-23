@@ -12,9 +12,9 @@ Contributions are always welcome!
 - [x] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 - [x] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 - [x] [Processes and Threads](https://planetscale.com/blog/processes-and-threads)
-        - Process is an instance of a program. Context switching is used to run muiltiple processes at once
-        - Threads run a single process and share RAM and code
-        - Switching between threads is much faster (5x). Threads can achieve overall faster performance but the application needs to be architected correctly.
+  - Process is an instance of a program. Context switching is used to run muiltiple processes at once
+  - Threads run a single process and share RAM and code
+  - Switching between threads is much faster (5x). Threads can achieve overall faster performance but the application needs to be architected correctly.
 
 ## Linux
 
